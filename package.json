@@ -1,0 +1,23 @@
+{
+	"name": "Theme-Monocai-Dark",
+	"displayName": "Monocai Dark Theme",
+	"description": "Monocai Dark Theme ported from IntelliJ IDEA color scheme",
+	"version": "0.0.2",
+	"publisher": "philspins",
+	"engines": {
+		"vscode": "^0.10.1"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Monocai Dark",
+				"path": "./themes/Monocai-Dark.tmTheme",
+				"uiTheme": "vs-dark"
+			}
+		]
+	}
+}
+
