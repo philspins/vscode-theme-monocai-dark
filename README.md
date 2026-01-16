@@ -17,4 +17,4 @@ This theme features:
 
 ## Preview
 
-![preview](images/preview.png)
+![preview](https://www.philnet.ca/images/monocai-theme-preview.png)

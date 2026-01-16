@@ -4,6 +4,10 @@
 	"description": "Monocai Dark Theme ported from IntelliJ IDEA color scheme",
 	"version": "0.0.2",
 	"publisher": "philspins",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/philspins/vscode-theme-monocai-dark"
+	},
 	"engines": {
 		"vscode": "^0.10.1"
 	},
