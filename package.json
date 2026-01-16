@@ -3,7 +3,7 @@
 	"displayName": "Monocai Dark Theme",
 	"description": "Monocai Dark Theme ported from IntelliJ IDEA color scheme",
 	"version": "0.0.2",
-	"publisher": "philspins",
+	"publisher": "phillycraig",
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/philspins/vscode-theme-monocai-dark"
