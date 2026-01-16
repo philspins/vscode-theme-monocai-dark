@@ -15,3 +15,6 @@ This theme features:
 - High contrast syntax highlighting
 - Colors ported from Monocai Dark IntelliJ IDEA theme
 
+## Preview
+
+![preview](images/preview.png)
