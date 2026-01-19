@@ -1,9 +1,10 @@
 {
 	"name": "Theme-Monocai-Dark",
 	"displayName": "Monocai Dark Theme",
-	"description": "Monocai Dark Theme ported from IntelliJ IDEA color scheme",
-	"version": "0.0.2",
+	"description": "A dark theme inspired by Monokai Pro Spectrum for IntelliJ, which I had tweaked to my liking for Java and Go development.",
+	"version": "0.0.5",
 	"publisher": "phillycraig",
+	"icon": "assets/icon.png",
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/philspins/vscode-theme-monocai-dark"
