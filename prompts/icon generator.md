@@ -1,0 +1,1 @@
+create a 256x256px icon of a painters palate with paint daubs in the colors of #fc618c, #5ad4e5, #6ebe7f, and #fce35b. the palate itself should be #e5e3ec and the icon background should be #191a1b

@@ -18,3 +18,9 @@ This theme features:
 ## Preview
 
 ![preview](https://www.philnet.ca/images/monocai-theme-preview.png)
+
+## Build & Publish
+
+- Build the .vsix file with `vsce package`
+- Upload to [Visual Studio Marketplace](https://marketplace.visualstudio.com/) for VS Code
+- Upload to [Open VSX](https://open-vsx.org/) for Cursor
