@@ -2,7 +2,7 @@
 	"name": "Theme-Monocai-Dark",
 	"displayName": "Monocai Dark Theme",
 	"description": "A dark theme inspired by Monokai Pro Spectrum for IntelliJ, which I had tweaked to my liking for Java and Go development.",
-	"version": "0.0.8",
+	"version": "0.0.9",
 	"publisher": "phillycraig",
 	"icon": "assets/icon.png",
 	"repository": {
@@ -26,8 +26,12 @@
 				"label": "Monocai Darker",
 				"path": "./themes/Monocai-Darker.json",
 				"uiTheme": "vs-dark"
+			},
+			{
+				"label": "Monocai Darkest",
+				"path": "./themes/Monocai-Darkest.json",
+				"uiTheme": "vs-dark"
 			}
 		]
 	}
 }
-
